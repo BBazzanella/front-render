@@ -1,4 +1,4 @@
-const URL = "https://backend21b-mquv.onrender.com"
+const URL = "https://backend21b-mquv.onrender.com/pessoas"
 var listaVeiculos = []
 
 function iniciarTabela(){
